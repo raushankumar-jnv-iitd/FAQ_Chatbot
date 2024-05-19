@@ -1,0 +1,9 @@
+#1 Extract ZIP file
+
+run :- python3 model.py
+
+Wait 2 minutes for model preparation
+
+Then
+ Write the Question
+ 
